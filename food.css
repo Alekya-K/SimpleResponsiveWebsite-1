@@ -1,0 +1,222 @@
+.foodlogo {
+    width: 65px;
+    height: 75px;
+  }
+  .navbar {
+    height: 65px;
+  }
+  #navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem2, .navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  .bannercontainer {
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.nShbGi6dtBAcXYcRSPvxTwHaDy&pid=Api&P=0&h=180");  
+    height: 100vh;
+    background-size: cover;
+  }
+  .bannerhead {
+    color:#0d2436;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+  }
+  .bannercaption {
+    color:#0d2436;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  .custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+  }
+  .wpusection {
+    background-color: #f9fbfe;
+  }
+  .heading1 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .description1 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .wpucard {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+  }
+  .wpuimage {
+    width: 87px;
+    height: 90px;
+  }
+  .wputitle {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+  }
+  .wpudescription {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  
+  .menusection {
+    background-color: white;
+  }
+  .heading2 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .menuimage {
+    border-radius: 16px;
+  }
+  .menucard {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+    
+    
+  }
+  .menulink {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  .healthysection {
+    background-color: #f9fbfe;
+  }
+  .healthyimg {
+    width: 270px;
+  }
+  .hheading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .hdescription {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .deliverysection {
+    background-color: white;
+  }
+  .deliveryimg {
+    width: 270px;
+  }
+  .deliveryheading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .deliverydescription {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .paymentimg {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+  }
+  .thankingsection {
+    background-color: #d0b2001a;
+  }
+  .thankingheading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .thankingdescription {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .thankingimg {
+    width: 270px;
+    margin-bottom: 20px;
+  }
+  .followsection {
+    background-color: white;
+  }
+  .followheading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .followcontainer {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .icon {
+    color:darkorchid;
+    font-size: 35px;
+  }
+  .footersection {
+    background-color: black;
+  }
+  .footerid {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .footeraddress {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
